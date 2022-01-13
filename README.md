@@ -7,3 +7,6 @@ In the following project, we used Leaflet, D3, and the Mapbox API to create an i
 - JavaScript
   - D3 Version 4.11
   - Leaflet
+## Results
+
+<img src = "images/map.png" width = 900>
